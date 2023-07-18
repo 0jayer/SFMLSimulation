@@ -1,0 +1,16 @@
+﻿  Main.cpp
+C:\Users\Safiul\Desktop\Physics\Physics\Main.cpp(7,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Safiul\Desktop\Physics\Physics\Main.cpp(8,18): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Safiul\Desktop\Physics\Physics\Main.cpp(23,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Safiul\Desktop\Physics\Physics\Main.cpp(27,80): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Safiul\Desktop\Physics\Physics\Main.cpp(35,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Safiul\Desktop\Physics\Physics\Main.cpp(39,48): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  Physics.vcxproj -> C:\Users\Safiul\Desktop\Physics\x64\Debug\Physics.exe
