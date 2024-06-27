@@ -1,2 +1,2 @@
 # SFMLSimulation
-Simple SFML C++ physics simulations
+SFML C++ physics simulations
